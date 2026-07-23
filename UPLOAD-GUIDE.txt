@@ -1,0 +1,11 @@
+GitHub Pages 업로드 방법
+
+1. 이 ZIP 파일을 먼저 압축 해제하세요.
+2. 압축을 푼 뒤 보이는 index.html, app.js, styles.css, manifest.json, sw.js,
+   privacy.html, icons 폴더, .nojekyll 파일을 저장소 최상단에 올리세요.
+3. ZIP 파일 자체 또는 github-pages-ready 폴더 하나만 올리면 안 됩니다.
+4. GitHub 저장소 > Settings > Pages로 이동하세요.
+5. Source를 Deploy from a branch로 선택하세요.
+6. Branch를 main, Folder를 /(root)로 선택하고 Save를 누르세요.
+7. 프로젝트 저장소 주소는 보통 아래 형식입니다.
+   https://사용자이름.github.io/저장소이름/
